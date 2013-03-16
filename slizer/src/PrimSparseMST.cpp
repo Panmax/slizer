@@ -9,7 +9,7 @@
 using namespace std;
 int n ;
 vector < vector < pair < int , int > > > g ;
-const int INF = 1000000000 ; // значение "бесконечность"
+const int INF = 1000000000 ; 
 
 void sparse_prim()
 {
